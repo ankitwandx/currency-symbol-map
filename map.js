@@ -30,7 +30,7 @@ module.exports = {
   'CDF': 'FC',
   'CHF': 'CHF',
   'CLP': '$',
-  'CNY': '¥',
+  'CNY': '元',
   'COP': '$',
   'CRC': '₡',
   'CUC': '$',
